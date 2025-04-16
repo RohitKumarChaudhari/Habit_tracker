@@ -49,10 +49,11 @@ Your answer gets recorded as a pixel on your personal online graph.
 - Any other habit you'd like to track!
 
 
-📜 License  
+## 📜 License  
 MIT License – see LICENSE for full details.
 
-🤝 Contact  
+## 🤝 Contact  
 Have suggestions or feedback? Drop an issue on GitHub.
 
+## Built By
 🔧 Built with dedication by Rohit using Python and the Pixela API. 🌱
