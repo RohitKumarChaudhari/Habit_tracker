@@ -48,10 +48,11 @@ Your answer gets recorded as a pixel on your personal online graph.
 - Language learning
 - Any other habit you'd like to track!
 
-🔧 Built with dedication by Rohit using Python and the Pixela API. 🌱
 
 📜 License  
 MIT License – see LICENSE for full details.
 
 🤝 Contact  
 Have suggestions or feedback? Drop an issue on GitHub.
+
+🔧 Built with dedication by Rohit using Python and the Pixela API. 🌱
